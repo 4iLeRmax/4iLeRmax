@@ -1,4 +1,14 @@
-## Hi there 👋
+Hi, I'm Maxim! 👋
+
+I'm a Frontend Engineer located in Finland who loves turning complex problems into clean, accessible, and fast web applications. My favorite habit is building ideas from scratch and driving them all the way to production.
+
+📍 Location: Finland
+
+💻 Tech: JavaScript / TypeScript, React, Next.js, Zustand, React Query, Tailwind CSS, Zod
+
+🎯 Focus: Crafting smooth user experiences, creating reliable and secure digital tools, and building responsive designs
+
+📫 Connect: max.zlatin@gmail.com
 
 <!--
 **4iLeRmax/4iLeRmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
