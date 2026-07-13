@@ -1,4 +1,4 @@
-Hi, I'm Maxim! 👋
+Hi, I'm Max! 👋
 
 I'm a Frontend Engineer located in Finland who loves turning complex problems into clean, accessible, and fast web applications. My favorite habit is building ideas from scratch and driving them all the way to production.
 
